@@ -1,1 +1,2 @@
-# logs
+# Hello World!
+Hi everyone!
